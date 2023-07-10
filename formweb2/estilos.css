@@ -1,0 +1,33 @@
+.ocultar {
+    display: none;
+}
+.mostrar {
+    display: block;
+}
+
+.imgProducto {
+    height: 50px;
+}
+.producto {
+    text-align: center;
+    background-color: rgb(119, 19, 185);
+    margin: 10px;
+    border-color: black;
+}
+
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.listarDatos{
+    text-align: center();
+    margin: -50px auto;
+    border-color: chartreuse;
+    transform: rotate(15deg) scale(0.9,0.6) translate(10px,10px);
+    border-radius: 20px;
+    background-color: #46a01c;
+    width: 180px;
+    padding: 30px;
+}
+
